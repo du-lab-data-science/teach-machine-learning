@@ -1,0 +1,42 @@
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+*.env
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Build/distribution
+build/
+dist/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Cache
+.cache/
+pytest_cache/
+
+# Data and results
+data/
+results/
+outputs/
+*.large.csv
+
+# Temp
+*.tmp
+
