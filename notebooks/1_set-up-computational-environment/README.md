@@ -1,4 +1,4 @@
-# Lecture 2 - Setup of the Computational Environment
+# Set up the Computational Environment
 
 BINF 6210/8210: Machine Learning for Bioinformatics (Fall 2026)
 
