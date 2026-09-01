@@ -32,7 +32,6 @@ dist/
 pytest_cache/
 
 # Data and results
-data/
 results/
 outputs/
 *.large.csv
