@@ -4,6 +4,14 @@ import numpy as np
 import scipy.stats as stats
 
 def d_lm(x, y, confidence=0.95):
+    """
+    Calculates the coefficients beta_0 and beta_1 in a simple linear regression problem.
+
+    :param x: predictor
+    :param y: target
+    :param confidence:
+    :return: eatimated beta_0, beta_1, R2, etc.
+    """
     n = len(x)
 
     x_bar = np.mean(x)
