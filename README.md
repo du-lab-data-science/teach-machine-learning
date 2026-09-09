@@ -1,6 +1,6 @@
 
 ## Introduction
-This repository contains lecture slides, Python Jupyter Notebooks, and homework assignments that Prof. Xiuxia Du designed for teaching the graduate level course **BINF 6210/8210: Machine Learning for Bioinformatics**. This course introduces graduate students in bioinformatics to machine learning (ML) techniques with applications to biological and health science data. Students will learn foundational ML algorithms, deep learning methods, and their applications in areas such as sequence analysis, compound structure prediction, metabolomics, and exposomics. By the end of the course, students will develop, evaluate, and interpret ML models for bioinformatics problems, preparing them for research or industry roles.
+This repository contains lecture slides, Python Jupyter Notebooks, and homework assignments that Prof. Xiuxia Du designed for teaching the graduate level course **BINF 6210/8210: Machine Learning for Bioinformatics**. This course introduces graduate students to machine learning (ML) techniques with applications to biological and health science data. Students will learn foundational ML algorithms, deep learning methods, and their applications in areas such as sequence analysis, compound structure prediction, -omics data analysis. By the end of the course, students will develop, evaluate, and interpret ML models for bioinformatics problems, preparing them for research or industry roles.
 
 ## Learning Outcomes
 Upon completion, students will be able to:
