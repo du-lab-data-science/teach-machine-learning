@@ -21,7 +21,7 @@ Upon completion, students will be able to:
 - Lecture 7: Classification
 - Lecture 8: Classification
 - Lecture 9: Classification
-- Lecture 10: Classification:
+- Lecture 10: Classification
 - Lecture 11: Unsupervised learning
 - Lecture 12: Unsupervised learning
 - Lecture 13: Introduction to neural network
