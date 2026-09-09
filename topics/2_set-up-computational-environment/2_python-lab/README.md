@@ -43,10 +43,6 @@ python -m jupyter lab
 
 Use one route for this course environment; do not mix `venv` and Conda for the same environment.
 
-## In Jupyter
-
-Open `Lecture_02_Computational_Environment.ipynb`, select **Python 3 (BINF 6210)**, restart the kernel, and run all cells from top to bottom.
-
 ## Useful commands
 
 ```bash
