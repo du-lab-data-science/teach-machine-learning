@@ -1,6 +1,6 @@
 # Teach Machine Learning
 
-This repository contains lecture slides, Python Jupyter Notebooks, and datasets for teaching machine learning concepts and applications.
+This repository contains lecture slides, Python Jupyter Notebooks, and homework assignments for teaching and learning machine learning concepts and applications.
 # Quick Start
 ## 1. Clone the repository
 
