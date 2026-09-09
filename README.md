@@ -42,3 +42,6 @@ Upon completion, students will be able to:
 - Lecture 28: Bias in biomedical data
 - Lecture 29: Final review
 
+## Notes
+
+This repository is currently very dynamic with frequent updates. 
