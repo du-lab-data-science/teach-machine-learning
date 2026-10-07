@@ -40,5 +40,5 @@ outputs/
 *.tmp
 
 # files that have a certain substring in the file name
-#**/*solution*
+**/*solution*
 
